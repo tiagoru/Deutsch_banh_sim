@@ -1,0 +1,12 @@
+- [x] Adicionar comparação diária de atrasos e horários por trem.
+- [x] Unificar relógio, movimento e passagem dos dias, preservando parada/substituição e devolução.
+- [x] Testar regras e verificar comparação e evolução no mapa.
+- [x] Sugerir melhor solução (manter, reserva ou próximo regular) para o usuário decidir.
+- [x] Mostrar saldo previsto imediatamente na parada programada e na comparação por trem; verificar escolha e cancelamento.
+- [x] Simular e mostrar retorno do trem substituído à garagem, chegada e devolução reversível; testar e verificar no mapa.
+- [x] Limitar saldos individuais aos seis últimos registros, mantendo saldo acumulado.
+- [x] Devolver trens parados sem atraso próprio, aguardando o próximo intervalo; testar e verificar na tela.
+- [x] Otimizar diagrama linear para trajetos reais, alto volume, filtros e etiquetas sem sobreposição; verificar navegação.
+- [x] Separar trens em faixas individuais estáveis no diagrama e verificar trechos movimentados.
+
+- [x] Translate the simulator interface into English and verify map, diagram and train actions.
