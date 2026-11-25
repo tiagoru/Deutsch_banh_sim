@@ -1,5 +1,5 @@
 # Deutsch_banh_sim
-# Deutsche Bahn simulated 
+# Deutsche Bahn simulation created with lovable 
 
 > **Interactive German rail network simulator with live DB train feeds, delay propagation, and tactical dispatch scenarios.**
 
