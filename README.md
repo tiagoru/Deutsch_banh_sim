@@ -66,6 +66,8 @@ Starting from an initial live snapshot of real-world Deutsche Bahn trains (retri
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/deutsche-bahn-domino-lab.git
-   cd deutsche-bahn-domino-lab
+   git clone https://github.com/tiagoru/Deutsch_banh_sim.git
+   cd Deutsch_banh_sim
+   ```
+   
 
